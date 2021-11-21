@@ -20,3 +20,10 @@
 
   <https://zhuanlan.zhihu.com/p/358403100>\
   <https://web.archive.org/web/20210723123257/https://zhuanlan.zhihu.com/p/358403100>
+
+- 为什么Vue在国际上越来越没影响力？
+
+  > LV 美国官网 Nuxt/Vue 写的，买过几个没？你翻墙上 P 站解决生理需求的时候，Vue 的 logo 也会亮起来，这个流量又如何？
+
+  <https://www.zhihu.com/question/472193255/answer/2235015723>\
+  <https://web.archive.org/web/20211121052633/https://www.zhihu.com/question/472193255/answer/2235015723>
