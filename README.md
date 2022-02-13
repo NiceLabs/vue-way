@@ -27,3 +27,9 @@
 
   <https://www.zhihu.com/question/472193255/answer/2235015723>\
   <https://web.archive.org/web/20211121052633/https://www.zhihu.com/question/472193255/answer/2235015723>
+
+- 为什么选 react 不选 vuejs，主要还是觉得 react 更加国际化一些，社区更蓬勃一些
+  > （Vue）国内用的多 !== 不国际化，这是一个思维误区。
+  
+  <https://twitter.com/yuxiyou/status/1492492135232200709>\
+  <https://web.archive.org/web/20220212133857/https://twitter.com/yuxiyou/status/1492492135232200709>
