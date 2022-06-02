@@ -33,3 +33,11 @@
   
   <https://twitter.com/yuxiyou/status/1492492135232200709>\
   <https://web.archive.org/web/20220212133857/https://twitter.com/yuxiyou/status/1492492135232200709>
+
+- This is pretty unreadable, demonstrates rationale against using TypeScript
+  > You are the embodiment of open source consumer entitlement and you are welcome to **fuck off** and never use this library again.
+  >
+  > P.S. you have been banned from interacting with any repositories under the vuejs organization, forever. Please don't bother replying. Actually, I believe it'd be much better off if you just stop using open source and write everything yourself from scratch!
+
+  <https://github.com/vuejs/pinia/discussions/1322#discussioncomment-2833623>\
+  <https://web.archive.org/web/20220531083359/https://github.com/vuejs/pinia/discussions/1322>
