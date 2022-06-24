@@ -41,3 +41,9 @@
 
   <https://github.com/vuejs/pinia/discussions/1322#discussioncomment-2833623>\
   <https://web.archive.org/web/20220531083359/https://github.com/vuejs/pinia/discussions/1322>
+
+-
+  > the new React docs should recommend Vite over CRA for beginners - or at least recommend a custom Vite based template if ESLint / testing are required (also should use Vitest instead of Jest)
+
+  <https://twitter.com/youyuxi/status/1540359515819847680>
+  <https://web.archive.org/web/20220624160336/https://twitter.com/youyuxi/status/1540359515819847680>
