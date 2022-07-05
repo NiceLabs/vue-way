@@ -47,3 +47,9 @@
 
   <https://twitter.com/youyuxi/status/1540359515819847680>
   <https://web.archive.org/web/20220624160336/https://twitter.com/youyuxi/status/1540359515819847680>
+
+-
+  > 现在国内有些公众号开始扒我英文推上的东西搞新闻了，还搞标题党那一套，还能不能好了
+
+  <https://twitter.com/yuxiyou/status/1544144063242260480>
+  <https://web.archive.org/web/20220705070804/https://twitter.com/yuxiyou/status/1544144063242260480>
