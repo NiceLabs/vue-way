@@ -53,3 +53,10 @@
 
   <https://twitter.com/yuxiyou/status/1544144063242260480>
   <https://web.archive.org/web/20220705070804/https://twitter.com/yuxiyou/status/1544144063242260480>
+
+- 为什么我感觉 Vue 3 TypeScript 还是不行？
+  > 模板在性能这块吊打 tsx，在 IDE 支持抹平了的前提下用 tsx 本质上是在为了开发者的偏好牺牲用户体验的性能（性能没遇到瓶颈就无所谓）。
+  > 最后实话实说，所有前端里面像这个问题下面的类型体操运动员们毕竟是少数，绝大部分有 intellisense + 类型校验就满足需求了。真的对类型特别特别较真的用 React 也没什么不好，无非就是性能差点。
+
+  <https://www.zhihu.com/question/453332049/answer/1844784032>
+  <https://web.archive.org/web/20220709082311/https://www.zhihu.com/question/453332049/answer/1844784032>
